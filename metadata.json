@@ -1,0 +1,6 @@
+{
+  "name": "MediSCORE",
+  "description": "Plateforme médicale de référence pour évaluer l'état clinique d'un patient à l'aide des échelles validées (Glasgow, NEWS2, Braden, Morse, Barthel) et générer un rapport synthétique détaillé en français.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
